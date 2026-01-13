@@ -79,6 +79,13 @@ Note: To explore the management features, please navigate to the /admin route or
 
 ---
 
+## 👥 Contributors
+
+* **Marwa Mahmoud** ([@marwa-mahmoud3](https://github.com/marwa-mahmoud3)) - Full Stack Development (Angular & .NET).
+* **Yomna Raafat** ([@YOmnAA98](https://github.com/YOmnAA98)) - UI Developer.
+
+----
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
